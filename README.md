@@ -13,4 +13,8 @@ NOTE: Dimensions are not provided by the original manufacture, but are based on 
 
 ![pogo-cross](https://github.com/C0mpl3t3N00b/POGO-IMPLOSION/assets/70859798/1e016db2-3fe0-4bdb-8511-21e2ef557765)
 
+Scaled appropriately for your equipment (3% in this example, on an SLA printer), it wil fit nice and tight...
 
+![image](https://github.com/ErichMoraga/POGO-IMPLOSION/assets/33645296/62df855a-c0e7-4c37-90df-cfdb7c4c9848)
+
+![image](https://github.com/ErichMoraga/POGO-IMPLOSION/assets/33645296/07f6ab96-fcad-4333-8f38-f64cc402ab3a)
