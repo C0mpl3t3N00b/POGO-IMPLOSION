@@ -15,6 +15,6 @@ NOTE: Dimensions are not provided by the original manufacture, but are based on 
 
 Scaled appropriately for your equipment (3% in this example, on an SLA printer), it wil fit nice and tight...
 
-![image](https://github.com/ErichMoraga/POGO-IMPLOSION/assets/33645296/62df855a-c0e7-4c37-90df-cfdb7c4c9848)
+![image](https://github.com/ErichMoraga/POGO-IMPLOSION/assets/33645296/cfa45944-4fb7-48e1-982f-b17d60e8005a)
 
 ![image](https://github.com/ErichMoraga/POGO-IMPLOSION/assets/33645296/07f6ab96-fcad-4333-8f38-f64cc402ab3a)
